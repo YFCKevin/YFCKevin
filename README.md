@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>, 我是奕帆</h1>
+<h1 align="center">Hi <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>, 我是奕帆 <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
 <h3 align="center">熱愛生活與程式，渴望做出點酷東西！</h3>
 <br>
 
