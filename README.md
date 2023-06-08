@@ -6,7 +6,7 @@
 
 - 👨‍💻 了解並持續學習的語言：**Java**, **JavaScript**
 
-- 🔭 持續學習的技術：**AJAX**, **Git**, **RESTful API**, **Postman**, **Bootstrap**, **HTML5**, **CSS3**
+- 🔭 持續學習的技術：**AJAX**, **Git**, **RESTful API**
 
 - 💼 希望能成為獨當一面的後端工程師
 
