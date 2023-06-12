@@ -2,11 +2,11 @@
 <h3 align="center">熱愛生活與程式，渴望做出點酷東西！</h3>
 <br>
 
-- 🌱 我正在學習： **Spring boot**, **Hibernate**, **MVC架構**
+- 🌱 我正在學習： **Spring boot**, **Hibernate**, **MVC架構**, **Kotlin**
 
 - 👨‍💻 了解並持續學習的語言：**Java**, **JavaScript**
 
-- 🔭 持續學習的技術：**AJAX**, **Git**, **RESTful API**
+- 🔭 持續學習的技術：**AJAX**, **Git**, **RESTful API**, **Unit Test**
 
 - 💼 希望能成為獨當一面的後端工程師
 
